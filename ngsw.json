@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1651082902277,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.ab5c4cfde78c8832.js",
+        "/manifest.webmanifest",
+        "/polyfills.d8ac1b8e52e44a15.js",
+        "/runtime.cfed36b318ef0588.js",
+        "/styles.09b5b74722eb8bd6.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Quicksand-Bold.f06eeff54be90d89.ttf",
+        "/Quicksand-Light.02577c9f4821c68b.ttf",
+        "/Quicksand-Medium.b6d6106a833efba8.ttf",
+        "/Quicksand-Regular.2f97b208521fce4f.ttf",
+        "/Quicksand-SemiBold.db706ad327cec322.ttf",
+        "/anytime_icon_background.b7b0700b46c9c399.png",
+        "/assets/fonts/Quicksand-Bold.ttf",
+        "/assets/fonts/Quicksand-Light.ttf",
+        "/assets/fonts/Quicksand-Medium.ttf",
+        "/assets/fonts/Quicksand-Regular.ttf",
+        "/assets/fonts/Quicksand-SemiBold.ttf",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-48x48.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/anytime_app_logo.png",
+        "/assets/images/anytime_app_logo_bar.png",
+        "/assets/images/anytime_icon.png",
+        "/assets/images/anytime_icon_background.png",
+        "/assets/images/anytime_logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Quicksand-Bold.f06eeff54be90d89.ttf": "171c939980530054b184f11a16f4d8a16f4530b3",
+    "/Quicksand-Light.02577c9f4821c68b.ttf": "ad8c5438bbea3c7e8c9f79e8d3e6a21e87212df4",
+    "/Quicksand-Medium.b6d6106a833efba8.ttf": "a9e8a61db39bc1705da9724e7bff29eb4ea2f150",
+    "/Quicksand-Regular.2f97b208521fce4f.ttf": "e6e740cad5285410556e1dbfddabd325f57222f4",
+    "/Quicksand-SemiBold.db706ad327cec322.ttf": "42acaf8cf0b677cbb787ba75b4f8f3bb3ba72a0c",
+    "/anytime_icon_background.b7b0700b46c9c399.png": "1b4b5580f9bebee273254c0deb64f037fb136d79",
+    "/assets/fonts/Quicksand-Bold.ttf": "171c939980530054b184f11a16f4d8a16f4530b3",
+    "/assets/fonts/Quicksand-Light.ttf": "ad8c5438bbea3c7e8c9f79e8d3e6a21e87212df4",
+    "/assets/fonts/Quicksand-Medium.ttf": "a9e8a61db39bc1705da9724e7bff29eb4ea2f150",
+    "/assets/fonts/Quicksand-Regular.ttf": "e6e740cad5285410556e1dbfddabd325f57222f4",
+    "/assets/fonts/Quicksand-SemiBold.ttf": "42acaf8cf0b677cbb787ba75b4f8f3bb3ba72a0c",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "c388e716bd1fb0602a85b6b3bed23f4b236cd15f",
+    "/assets/icons/icon-152x152.png": "24ca960452a9224aff98fcc51ab5e28a92f00d8d",
+    "/assets/icons/icon-192x192.png": "ec28f3aab0dccfc0d83bf5d0fec197a223ac7062",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-48x48.png": "bceb4409a89eea5b0e410b854edb91cc93612cf1",
+    "/assets/icons/icon-512x512.png": "0c4fafd7dbfc5b90a475336fa07a47441461e48f",
+    "/assets/icons/icon-72x72.png": "0a06e2a15440e2338b795587806a89a22391842d",
+    "/assets/icons/icon-96x96.png": "819c2086ce5d3bf5ec27b56088819aa5a37f1e23",
+    "/assets/images/anytime_app_logo.png": "21e24770e04e9923abb39cdc6fd3a2f765a7ade4",
+    "/assets/images/anytime_app_logo_bar.png": "944b000087e856e29262e32b4c722259d0e57c24",
+    "/assets/images/anytime_icon.png": "06948dddca8fd6ab95802c96ede4697665a31e2a",
+    "/assets/images/anytime_icon_background.png": "1b4b5580f9bebee273254c0deb64f037fb136d79",
+    "/assets/images/anytime_logo.png": "6d9f959ed4594077e25582deadbd15dd4f63bf03",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "ad8486d7d2f81aadda50ffbe0a5037728b866b52",
+    "/main.ab5c4cfde78c8832.js": "7432f8aef13373923b7ffd3aa4bcf4713f36d26c",
+    "/manifest.webmanifest": "adeb6a9eba43f72f8aae6dbff3972fe5e43b64e5",
+    "/polyfills.d8ac1b8e52e44a15.js": "0a1abec346c0ee7ad390727eccaaea31b0e1f89b",
+    "/runtime.cfed36b318ef0588.js": "ac945186eb9c031681a91b1b7ef85a75e4751001",
+    "/styles.09b5b74722eb8bd6.css": "1cffb45b88071d91981ce9277b39fb05e72f2383"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
